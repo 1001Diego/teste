@@ -7,7 +7,4 @@
 - Matricula: 729904
 
 ## Print da tela da página criada (Curriculum Vitae)
-![curriculo](curriculo.png)
-
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-![ inspeção](image.png)
+![Uploading Screenshot 2026-08-28 113450.png…]()
