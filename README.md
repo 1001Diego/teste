@@ -7,4 +7,4 @@
 - Matricula: 729904
 
 ## Print da tela da página criada (Curriculum Vitae)
-![Uploading Screenshot 2026-08-28 113450.png…]()
+<img width="1917" height="1147" alt="Screenshot 2026-08-28 113450" src="https://github.com/user-attachments/assets/69912151-94ea-4a1f-a61d-81cc7f850aa5" />
